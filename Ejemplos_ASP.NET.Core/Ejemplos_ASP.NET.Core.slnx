@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ASP.NET.Core.API/ASP.NET.Core.API.csproj" Id="d77d3848-4f97-4ec9-9f6c-1fe92d191967" />
+  <Project Path="ASP.NET.Core.API/ASP.NET.Core.API1.csproj" Id="62a65acf-a9a9-47c4-88f2-14b17a4a56ec" />
+  <Project Path="ASP.NET.Core.Blazor/ASP.NET.Core.Blazor.csproj" Id="52540d41-0c80-40a8-9bbd-8d87b3953342" />
+  <Project Path="ASP.NET.Core.MVC/ASP.NET.Core.MVC.csproj" Id="fce20fb7-7e0f-4aa9-a364-d30955a3895a" />
+  <Project Path="ASP.NET.Core.RazorPages/ASP.NET.Core.RazorPages.csproj" Id="dbd28aa1-508a-4c0f-99b8-3de26bd9d577" />
+  <Project Path="Personas/Personas.csproj" />
+</Solution>

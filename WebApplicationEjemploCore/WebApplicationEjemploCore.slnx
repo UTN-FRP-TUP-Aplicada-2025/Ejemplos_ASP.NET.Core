@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="Personas/Personas.csproj" />
-  <Project Path="WebApplicationAPICore/WebApplicationAPICore.csproj" />
-  <Project Path="WebApplicationCore/WebApplicationCore.csproj" />
-</Solution>
